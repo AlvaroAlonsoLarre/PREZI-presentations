@@ -1,5 +1,5 @@
 # PREZI presentations
-Recopilo una conjunto de presentaciones realizadas con el programa PREZI.
+Presentaciones realizadas con el programa PREZI.
 
 ## 1. Presentación de Trabajo Fin de Máster "Determinación de los Factores de Variabilidad de la Textura del Queso Untable San Millán"
    URL: (https://prezi.com/gznsn5e-f4mo/tfm/?present=1)
